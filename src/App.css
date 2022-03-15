@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap");
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: 26px;
+}
+.title {
+  padding: 50px;
+  text-align: center;
+  width: auto;
+  height: 200px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 70px;
+  color: rgb(255, 255, 255);
+  background-color: #e94057;
+}
+
+span {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hard {
+  margin: auto;
+  background-color: #e94057;
+}
+
+.counter {
+  text-align: center;
+}
+.para {
+  text-align: center;
+  font-size: 25px;
+}
