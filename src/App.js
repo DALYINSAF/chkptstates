@@ -10,7 +10,7 @@ class App extends React.Component {
     this.state = {
       Person: [
         {
-          fullName: "Alyani Asma",
+          fullName: "Daly Insaf",
           bio: "Go My Code Student ",
           profession: "Fullstack Web Developer",
         },
